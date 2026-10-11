@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Code Change"
+  short_description: "コード変更の具体的な不具合とリスクをレビューします"
+  default_prompt: "Use $review-code-change to review this change and report actionable findings."
