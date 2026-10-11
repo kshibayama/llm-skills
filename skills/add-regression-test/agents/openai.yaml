@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Regression Test"
+  short_description: "不具合を再現して再発を防ぐ回帰テストを安全に追加します"
+  default_prompt: "Use $add-regression-test to add focused regression coverage for this bug."

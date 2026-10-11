@@ -1,0 +1,4 @@
+# One repository-relative skill directory per line.
+skills/diagnose-ci-failure
+skills/review-code-change
+skills/add-regression-test

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagnose CI Failure"
+  short_description: "CI failuresの根本原因と最小修正方針を調査します"
+  default_prompt: "Use $diagnose-ci-failure to investigate this CI failure and report the root cause with evidence."
