@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create PR in Japanese"
+  short_description: "変更を確認し、日本語の説明文を付けたPRを作成します"
+  default_prompt: "Use $create-pr-ja to create a pull request with a Japanese description."
