@@ -7,6 +7,7 @@
 - `diagnose-ci-failure`: CI失敗を調査し、根本原因と最小修正方針を報告する
 - `review-code-change`: コード変更から具体的かつ実行可能な問題を探す
 - `add-regression-test`: 不具合を再現し、再発を防ぐテストを追加する
+- `create-pr-ja`: 変更内容を確認し、日本語の説明付きでPRを作成する
 
 ## Install
 

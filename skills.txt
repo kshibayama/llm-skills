@@ -2,3 +2,4 @@
 skills/diagnose-ci-failure
 skills/review-code-change
 skills/add-regression-test
+skills/create-pr-ja
